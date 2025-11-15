@@ -1,0 +1,10 @@
+{
+  "token": "you tried didn't you",
+  "developerMode": true,
+  "developerGuildId": 1435280438397501553,
+  "botName": "openMM",
+  "madeByMessage": true,
+  "madeByMessageContents": "github.com/JULESISJEWLS/openMM",
+  "forbiddenChannels": ["general", "welcome", "announcements", "rules", "chat"],
+  "botDocs": "https://github.com/JULESISJEWLS/openMM?tab=readme-ov-file"
+}
